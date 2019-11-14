@@ -1,0 +1,76 @@
+﻿{
+  "CTables": [
+    {
+      "CRows": [
+        {
+          "Datarow": [
+            "Data1",
+            "Data2"
+          ],
+          "Props": {
+            "Color": "red",
+            "FSize": "30"
+          }
+        },
+        {
+          "Datarow": [
+            "Data1",
+            "Data2"
+          ],
+          "Props": {
+            "Color": "blue",
+            "FSize": "50"
+          }
+        },
+        {
+          "Datarow": [
+            "Data1",
+            "Data2"
+          ],
+          "Props": {
+            "Color": "yellow",
+            "FSize": "60"
+          }
+        }
+      ],
+      "Header": "Report Card",
+      "TabName": "Sheet1"
+    },
+    {
+      "CRows": [
+        {
+          "Datarow": [
+            "Data1",
+            "Data2"
+          ],
+          "Props": {
+            "Color": "red",
+            "FSize": "30"
+          }
+        },
+        {
+          "Datarow": [
+            "Data1",
+            "Data2"
+          ],
+          "Props": {
+            "Color": "blue",
+            "FSize": "50"
+          }
+        },
+        {
+          "Datarow": [
+            "Data1",
+            "Data2"
+          ],
+          "Props": {
+            "Color": "yellow",
+            "FSize": "60"
+          }
+        }
+      ],
+      "Header": "Report Card",
+      "TabName": "Sheet2"
+    }
+  ]
+}

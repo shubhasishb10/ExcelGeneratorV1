@@ -18,11 +18,12 @@ namespace ExcelGenerator.Model
     }
     class CTable
     {
-        public List<CRow> Rows { set; get; }
+        public List<CRow> CRows { set; get; }
         public string Header { set; get; }
+        public string TabName { set; get; }
     }
     class CSet
     {
-       public ICollection<CTable> CTables { set; get; }
+       public List<CTable> CTables { set; get; }
     }
 }
