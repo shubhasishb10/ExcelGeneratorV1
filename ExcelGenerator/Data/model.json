@@ -442,8 +442,7 @@
           }
         }
       ],
-      "Header": "Student Details",
-      "TabName": "SI"
+      "TabName": "Details"
     },
     {
       "CRows": [
